@@ -17,6 +17,10 @@ public class Proyecto01 {
         // TODO code application logic here
         System.out.println("Ejemplo basico de java Versionado a traves de git Mnejado desde GitHub ");
         System.out.println("Ejemplo de Java Manejado desde GitHub Versionado a traves de git Creado por <ubicar su usuario de github>");
+        System.out.println("Ejmplo dos basico de java "
+                + "Versionado a traves de Git"
+                + "Mnejado desde GitHub"
+                + "Ademas se usar GitHubClassroom");
     }
     
 }
